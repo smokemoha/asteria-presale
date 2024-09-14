@@ -1,6 +1,10 @@
 
-    <title>README - Presale Memecoin Website</title>
+<html lang="en">
+<head>
 
+    <title>README - Presale Memecoin Website</title>
+</head>
+<body>
 
     <h1>Presale Memecoin Website</h1>
     <p>
@@ -39,7 +43,6 @@
         Open index.html in any modern browser to view the site.
     </p>
 
-  
 
     <h2>Future Updates</h2>
     <p>
@@ -48,6 +51,7 @@
         - Additional wallet support (e.g., WalletConnect).
     </p>
 
-    <p>Feel free to fork, suggest improvements, or contribute to the project!</p>
+ 
 
-
+</body>
+</html>
